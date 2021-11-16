@@ -1,0 +1,37 @@
+[
+    {"SerialNo":"1",
+     "Name":"Oil",
+     "Quantity":"1",
+     "Unit":"l",
+     "Department":"Edible Oil",
+     "Notes":"Kerala Oil"
+     },
+     {"SerialNo":"2",
+     "Name":"Pen",
+     "Quantity":"10",
+     "Unit":"No:",
+     "Department":"Stationary",
+     "Notes":"Blue Ink"
+      },
+     {"SerialNo":"3",
+     "Name":"Books",
+     "Quantity":"5",
+     "Unit":"No:",
+     "Department":"Stationary",
+     "Notes":"Notes"
+     },
+     {"SerialNo":"4",
+     "Name":"Milk",
+     "Quantity":"500",
+     "Unit":"ml",
+     "Department":"Grocery",
+     "Notes":"Amul Brand"
+    },
+     {
+      "SerialNo":"5",
+     "Name":"Eggs",
+     "Quantity":"10",
+     "Unit":"No:",
+     "Department":"Eggs",
+     "Notes":"Chicken Eggs"}
+]
